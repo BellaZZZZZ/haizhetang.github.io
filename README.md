@@ -1,2 +1,2 @@
 # 🌟 [学习笔记](https://github.com/BellaZZZZZ/huajiaoye.github.io/tree/main/notes)
-# 🌟 随手记录见issues
+# 🌟 [碎片记录](https://github.com/BellaZZZZZ/huajiaoye.github.io/issues)
