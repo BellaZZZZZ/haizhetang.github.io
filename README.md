@@ -1,2 +1,2 @@
 # huajiaoye.github.io
-blog
+# 🌟 随手记录见issues
