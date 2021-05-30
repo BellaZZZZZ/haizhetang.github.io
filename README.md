@@ -1,6 +1,6 @@
 # :notebook_with_decorative_cover: [学习笔记](https://github.com/BellaZZZZZ/huajiaoye.github.io/tree/main/notes)
 ## [JavaScript](https://github.com/BellaZZZZZ/haizhetang.github.io/tree/main/notes/javascript-pink)
-### [函数](https://github.com/BellaZZZZZ/haizhetang.github.io/blob/main/notes/javascript-pink/%E5%87%BD%E6%95%B0.md)
-### [作用域](https://github.com/BellaZZZZZ/haizhetang.github.io/blob/main/notes/javascript-pink/%E4%BD%9C%E7%94%A8%E5%9F%9F.md)
+### [1. 函数](https://github.com/BellaZZZZZ/haizhetang.github.io/blob/main/notes/javascript-pink/%E5%87%BD%E6%95%B0.md)
+### [2. 作用域](https://github.com/BellaZZZZZ/haizhetang.github.io/blob/main/notes/javascript-pink/%E4%BD%9C%E7%94%A8%E5%9F%9F.md)
 - [javascript作用域](https://github.com/BellaZZZZZ/haizhetang.github.io/blob/main/notes/javascript-pink/%E4%BD%9C%E7%94%A8%E5%9F%9F.md#javascript%E4%BD%9C%E7%94%A8%E5%9F%9F)
 # :large_blue_diamond: [碎片记录](https://github.com/BellaZZZZZ/huajiaoye.github.io/issues)
