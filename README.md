@@ -10,5 +10,9 @@
 
 # :memo: 碎片记录
 - [x] [pandas中apply传递多个参数](https://github.com/BellaZZZZZ/haizhetang.github.io/issues/1)
+- [x] [`<a>`标签去掉下划线(鼠标悬浮时](https://github.com/BellaZZZZZ/haizhetang.github.io/issues/2)
+- [x] [Python获取字符串中`#`后面数字](https://github.com/BellaZZZZZ/haizhetang.github.io/issues/3)
+- [ ] [Python isinstance()与type()异同](https://github.com/BellaZZZZZ/haizhetang.github.io/issues/4)
+
 
 # :books: 学习资料
