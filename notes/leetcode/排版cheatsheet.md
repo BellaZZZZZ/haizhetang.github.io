@@ -2,14 +2,14 @@
 ### 掌握情况
 - 已掌握
 
-![](https://img.shields.io/badge/-%E5%B7%B2%E6%8E%8C%E6%8F%A1-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/-%E5%B7%B2%E6%8E%8C%E6%8F%A1-brightgreen)
 
-`![](https://img.shields.io/badge/-%E5%B7%B2%E6%8E%8C%E6%8F%A1-brightgreen?style=for-the-badge)`
+`![](https://img.shields.io/badge/-%E5%B7%B2%E6%8E%8C%E6%8F%A1-brightgreen)`
 - 未掌握
 
-![](https://img.shields.io/badge/-%E6%9C%AA%E6%8E%8C%E6%8F%A1-red?style=for-the-badge)
+![](https://img.shields.io/badge/-%E6%9C%AA%E6%8E%8C%E6%8F%A1-red)
 
-`![](https://img.shields.io/badge/-%E6%9C%AA%E6%8E%8C%E6%8F%A1-red?style=for-the-badge)`
+`![](https://img.shields.io/badge/-%E6%9C%AA%E6%8E%8C%E6%8F%A1-red)`
 ### 代码运行情况
 - 执行用时&内存消耗
 
