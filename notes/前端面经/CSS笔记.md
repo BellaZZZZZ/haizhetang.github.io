@@ -1,0 +1,1 @@
+> 设为Flex布局以后，自元素的`float`、`clear`、`vertical-align`属性将失效。

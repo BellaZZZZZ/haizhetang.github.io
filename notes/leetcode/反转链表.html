@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>反转链表</title>
+</head>
+<body>
+  <script>
+    class ListNode {
+      constructor(val) {
+        this.val = val;
+        this.next = null;
+      }
+    }
+
+    class SinglyLinkedList {
+      constructor() {
+        this.head = new ListNode('head');
+      }
+      insert(item) {
+        
+      }
+      reverseList(head) {
+        let pre = null;
+        let cur = head;
+        while(cur){
+            const temp = cur.next;//temp记住cur指向的下一个节点
+            cur.next = pre;//反转
+            pre = cur;//pre指向反转后的链表最后一个节点
+            cur = temp;//cur指向当前待反转的节点
+        }
+        return pre
+      }
+    }
+    let myList = new SinglyLinkedList();
+    let arr = [1,2,3,4,5,null];
+    for(let i=0; i<arr.length; i++){
+      myList.append(arr[i]);
+    }
+    console.log(myList);
+  </script>
+</body>
+</html>
